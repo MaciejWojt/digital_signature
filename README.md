@@ -1,4 +1,7 @@
-# digital_signature
+# Chaos-Based True Random Number Generator and RSA Key Generation
+
+This project implements a True Random Number Generator (TRNG) using chaotic maps and image processing. 
+It leverages the generated random numbers for RSA key generation, digital signing, and signature verification.
 
 Project setup on Windows:
   1. python -m venv venv
