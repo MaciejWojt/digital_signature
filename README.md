@@ -1,11 +1,11 @@
-# Chaos-Based True Random Number Generator and RSA Key Generation
+# Chaos-Based TRNG and RSA Key Generation
 
 This project implements a True Random Number Generator (TRNG) using chaotic maps and image processing. 
 It leverages the generated random numbers for RSA key generation, digital signing, and signature verification.
 
 Project setup on Windows:
   1. python -m venv venv
-  2. venv\Script\activate
+  2. venv\Scripts\activate
   3. pip install -r requirements.txt
   4. python main_script.py
 
